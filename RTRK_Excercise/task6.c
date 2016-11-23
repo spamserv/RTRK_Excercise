@@ -110,7 +110,7 @@ void display()
 	printf("\n");
 }
 
-void check_parenthesis()
+void check_parentheses()
 {
 	if (s.top == -1)
 	{
