@@ -26,7 +26,7 @@
     <ClCompile Include="linkedlist.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="task2.c">
+    <ClCompile Include="task3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
