@@ -13,10 +13,10 @@ Things that are currently implemented:
  -- search in stack
  -- print stack
  -- exit program
+ - Round Buffer
+ - Task 6 - Check if every opening parentheses has its own closing parentheses. Provide index of opening and closing parentheses.
  
 TO DO List:
   - Classic pop function
   - Doubly Linked List
-  ~~- Round Buffer~~
-  ~~- Task 6 - Check if every opening parentheses has its own closing parentheses. Provide index of opening and closing parentheses.~~
   - Task 9 - Create a linked list, and divide the linked list on two separated list whether the value of the element is greater or lower than input number
