@@ -7,12 +7,13 @@ This project is for personal education purposes.
 Things that are currently implemented:
  - Linked List
  - Stack, with:
- -- push to start
- -- push to end
- -- remove element
- -- search in stack
- -- print stack
- -- exit program
+  * push to start
+  * push to end
+  * remove element
+  * search in stack
+  * print stack
+  * exit program
+  
  - Round Buffer
  - Task 2 - Create linked list and then divide it into two lists depending if the value on the index is even or odd.
  - Task 3 - Implement doubly linked list, push values to it. If the list has this examplary values: { 1, 2, 3, 4, 5, 6, 7, 8, 9}, the list should be printed in this way: { 5, 4, 6, 3, 7, 2, 8, 1, 9 }
