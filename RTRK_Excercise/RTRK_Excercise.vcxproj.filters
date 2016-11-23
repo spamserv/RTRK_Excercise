@@ -26,10 +26,10 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.c">
+    <ClCompile Include="linkedlist.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="linkedlist.c">
+    <ClCompile Include="roundbuffer.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
